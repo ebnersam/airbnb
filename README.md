@@ -4,6 +4,8 @@
 
 AirBnB dataset collected from major US cities is being utilized to generate estimated price predictions for single day rentals on [airbnb.com](https://www.airbnb.com/).
 
+Our app can be found [here](https://airbnb-price-prediction-web.herokuapp.com/)
+
 ## ☝️ Our Proposal:
 
 Predict the price of AirBnB listings in major U.S. cities based on multiple house amenities/attributes.
